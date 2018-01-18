@@ -11,8 +11,8 @@ di Edit dikit @ Kris
 require_once('./line_class.php');
 require_once('./unirest-php-master/src/Unirest.php');
 
-$channelAccessToken = 'QuwChCEGKOD+oZY4CdysYMFaTl/koTvclk9Kv0e5SFvT8Hi0VFNRVEIidx8a3aPp01/Cpe72WASm8H5nq6pZYFCrxlXx2TcshN7LEBg7f1+UNiIzEhWeP7tHW0MPmlkviW66zQp872ShbhB63cltGgdB04t89/1O/w1cDnyilFU='; //tantebot
-$channelSecret = '682596c12a706fac0a5b415bfb9c66c1';//tantebot
+$channelAccessToken = 'cYaKZZoRsg9x9+6FS+kWELMXS0AZgB4w3RLUGI3O2YmBf435d2cR6f1GTUtSyA3KZW9ZPwNFKQZ4i8E9Kc718bbpDV2OsXYThnigQfz0D4j96CG3I56HUsM9WK86exbD0lc0mvzWyJEQtsir8VMHGgdB04t89/1O/w1cDnyilFU='; //tantebot
+$channelSecret = '2f7aae6c635afa1fbf0c5afcb6905d3d';//tantebot
 
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
 
